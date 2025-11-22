@@ -78,7 +78,7 @@ const html = `
         <h1>Rai Olric Taan</h1>
         <div class="section">IT-BA-4102</div>
         <div class="quote">
-            The only way to do great work is to love what you do. Passion fuels excellence.
+            Begin with what you hold. Rise from where you stand.
         </div>
     </div>
 </body>
