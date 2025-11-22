@@ -78,7 +78,8 @@ const html = `
         <h1>Rai Olric Taan</h1>
         <div class="section">IT-BA-4102</div>
         <div class="quote">
-            Begin with what you hold. Rise from where you stand.
+            Begin with what you hold.<br>
+            Rise from where you stand.
         </div>
     </div>
 </body>
